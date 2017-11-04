@@ -1,5 +1,5 @@
 # HitchHikers-Guide-Machine-Learning
 
-Author: Conor Dewey
+Author: Conor Dewey \n
 Date Completed: 7/2017
 Description: Guide explaining and implementing relevant machine learning algorithms in a clear and concise way.

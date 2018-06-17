@@ -1,7 +1,5 @@
 # HitchHikers-Guide-Machine-Learning
 
-Author: Conor Dewey
-
 Date Completed: 7/2017
 
 Description: Guide explaining and implementing fundamental machine learning algorithms in Python

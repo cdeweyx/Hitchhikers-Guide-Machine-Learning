@@ -1,4 +1,4 @@
-# HitchHikers-Guide-Machine-Learning
+# Hitchhikers-Guide-Machine-Learning
 
 Description: Guide explaining and implementing fundamental machine learning algorithms in Python
 

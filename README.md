@@ -15,4 +15,7 @@ I cover a total of 8 different machine learning algorithms. Feel free to jump ar
 7. K-Means Clustering
 8. Principal Components Analysis
 
-See the post: https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378
+### For More
+This repo is based off a popular Medium post (100,000+ views). If you stumbled upon this, I highly recommend checking out the original post first and then coming back: 
+
+https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378

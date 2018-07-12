@@ -18,6 +18,6 @@ I cover a total of 8 different machine learning algorithms. Feel free to jump ar
 ### See the Post
 This repo is based off a popular Medium post (100,000+ views). If you stumbled upon this, I highly recommend checking out the original post first and then coming back:
 
-[Hitchhiker's Gudie to Machine Learning Algorithms in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
+[The Hitchhiker's Guide to Machine Learning Algorithms in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
 
 

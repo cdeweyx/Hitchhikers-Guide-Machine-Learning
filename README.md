@@ -1,4 +1,4 @@
-# Hitchhikers Guide to Machine Learning in Python
+# The Hitchhiker's Guide to Machine Learning in Python
 
 ### Goal
 My goal is to explain and implement fundamental machine learning algorithms in a clear and concise way using Python. If I am successful then you will walk away with a little better understanding of the algorithms or at the very least some code to serve as a jumping off point when you go to try them out for yourself.
